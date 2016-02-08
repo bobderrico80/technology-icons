@@ -9,7 +9,7 @@
     "bootstrap-sass-official": "~3.2.0",
     "modernizr": "~2.8.2",
     "angular": "~1.2.26",
-    "prismjs": "*",
+    "prism": "*",
     "angular-animate": "~1.2.25"
   },
   "moduleType": [
